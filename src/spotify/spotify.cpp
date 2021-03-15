@@ -195,7 +195,8 @@ void Spotify::put(const QString &url, const QJsonDocument &body,
 				return;
 			}
 
-			callback(error);
+			if (callback)
+				callback(error);
 		});
 }
 
