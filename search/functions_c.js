@@ -1,10 +1,11 @@
 var searchData=
 [
-  ['recently_5fplayed_295',['recently_played',['../classlib_1_1spt_1_1spotify__api.html#aacb0b4cb3a6ba74264f5e81556a6293a',1,'lib::spt::spotify_api']]],
-  ['refresh_296',['refresh',['../classlib_1_1spt_1_1spotify__api.html#a9b3b029da5b29f1bd7e015233ba9fedc',1,'lib::spt::spotify_api']]],
-  ['remove_297',['remove',['../classlib_1_1strings.html#ad9c0382afad068f80464b6abecc7d28e',1,'lib::strings']]],
-  ['remove_5fclient_298',['remove_client',['../classlib_1_1settings.html#ae2330fba54af6807d6a94efc251cd6bf',1,'lib::settings']]],
-  ['remove_5ftokens_299',['remove_tokens',['../classlib_1_1settings.html#a69d1bf12df87f80ee68bf7c3f4052641',1,'lib::settings']]],
-  ['resume_300',['resume',['../classlib_1_1spt_1_1spotify__api.html#a33876d4ebc459f4f9a4fd21b4f164c45',1,'lib::spt::spotify_api']]],
-  ['right_301',['right',['../classlib_1_1strings.html#ad75f085892bbf2a3506feb782255a72f',1,'lib::strings']]]
+  ['parse_335',['parse',['../classlib_1_1date__time.html#adcdc942ea6db13b86272bcac902f0be3',1,'lib::date_time']]],
+  ['paths_336',['paths',['../classlib_1_1paths.html#a46e8c35ee6f51938d7af982e532acbb2',1,'lib::paths']]],
+  ['pause_337',['pause',['../classlib_1_1spt_1_1api.html#a7ea863a1c91a7eb1382541e0c08eea1a',1,'lib::spt::api']]],
+  ['play_5ftracks_338',['play_tracks',['../classlib_1_1spt_1_1api.html#aacbb20568d0a95b4bcce20c6440e8f2e',1,'lib::spt::api::play_tracks(int track_index, const std::string &amp;context, lib::callback&lt; std::string &gt; &amp;callback)'],['../classlib_1_1spt_1_1api.html#a0d4868cbfad0a9a5dfa545ce181299cc',1,'lib::spt::api::play_tracks(int track_index, const std::vector&lt; std::string &gt; &amp;all, lib::callback&lt; std::string &gt; &amp;callback)'],['../classlib_1_1spt_1_1api.html#a60f5838cd80f0d677fe4dd972dccf0fd',1,'lib::spt::api::play_tracks(int track_index, const std::initializer_list&lt; std::string &gt; &amp;all, lib::callback&lt; std::string &gt; &amp;callback)'],['../classlib_1_1spt_1_1api.html#a40991941ba40216746d52ff1ae353404',1,'lib::spt::api::play_tracks(const std::string &amp;context, lib::callback&lt; std::string &gt; &amp;callback)']]],
+  ['play_5ftracks_5furl_339',['play_tracks_url',['../classlib_1_1spt_1_1api.html#abca1449ba0890522b37d52ff70be8c15',1,'lib::spt::api']]],
+  ['post_340',['post',['../classlib_1_1http__client.html#a6af2f6fa7b239f3a097d3705b25ba087',1,'lib::http_client::post(const std::string &amp;url, const headers &amp;headers, lib::callback&lt; std::string &gt; &amp;callback) const'],['../classlib_1_1http__client.html#a62349387dd537a19055cfb91205c0f2e',1,'lib::http_client::post(const std::string &amp;url, const std::string &amp;body, const headers &amp;headers, lib::callback&lt; std::string &gt; &amp;callback) const =0'],['../classlib_1_1http__client.html#a6883132a18443387a0bfce0145a75f7c',1,'lib::http_client::post(const std::string &amp;url, const headers &amp;headers, const std::string &amp;post_data) const -&gt; std::string=0'],['../classlib_1_1spt_1_1api.html#a64f1734b8278db05880989f44a70e552',1,'lib::spt::api::post(const std::string &amp;url, lib::callback&lt; std::string &gt; &amp;callback)']]],
+  ['previous_341',['previous',['../classlib_1_1spt_1_1api.html#a9d5c5e8e938f27f919fcfe4319890058',1,'lib::spt::api']]],
+  ['put_342',['put',['../classlib_1_1http__client.html#a417ac19ac51959fc94c36b432d7e28c1',1,'lib::http_client::put()'],['../classlib_1_1spt_1_1api.html#ae6de5354ebff77d8d21124141dfa8d09',1,'lib::spt::api::put(const std::string &amp;url, const nlohmann::json &amp;body, lib::callback&lt; std::string &gt; &amp;callback)'],['../classlib_1_1spt_1_1api.html#a1370bf233537673881fc2867adc433bf',1,'lib::spt::api::put(const std::string &amp;url, lib::callback&lt; std::string &gt; &amp;callback)']]]
 ];

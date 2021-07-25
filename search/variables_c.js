@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['name_390',['name',['../classlib_1_1spt_1_1album.html#a1e3290ed717ea715afa1a672504ce95b',1,'lib::spt::album::name()'],['../classlib_1_1spt_1_1artist.html#ab2ac2371a7a286f91478a119c047afc5',1,'lib::spt::artist::name()'],['../classlib_1_1spt_1_1device.html#a125cf05de56ecb26be42cc6e40b5c1c8',1,'lib::spt::device::name()'],['../classlib_1_1spt_1_1playlist.html#af3c7ea64e6fa3fc9c1d9f6ee6e764b1e',1,'lib::spt::playlist::name()'],['../classlib_1_1spt_1_1track.html#a507f463aa5ac512471de37ff8e4da014',1,'lib::spt::track::name()']]]
+  ['release_5fdate_430',['release_date',['../classlib_1_1spt_1_1album.html#a12f19a9ab0139d5033d22a9839e7a73f',1,'lib::spt::album']]],
+  ['repeat_431',['repeat',['../classlib_1_1spt_1_1playback.html#aa9f346fa0c4f0c68ed0b9c808315c57d',1,'lib::spt::playback']]]
 ];

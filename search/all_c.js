@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['max_5fqueue_103',['max_queue',['../structlib_1_1set_1_1spotify.html#a85004b11863196329d84c24841be16d7',1,'lib::set::spotify']]],
-  ['media_5fcontroller_104',['media_controller',['../structlib_1_1set_1_1general.html#aa0aeb913a3cf2cb58cb545eb16ed0413',1,'lib::set::general']]],
-  ['metadata_105',['metadata',['../classlib_1_1spt_1_1playback.html#a1a9234a8f4bb7b37c06e7e79fb8c4e0b',1,'lib::spt::playback']]]
+  ['name_118',['name',['../classlib_1_1spt_1_1device.html#a125cf05de56ecb26be42cc6e40b5c1c8',1,'lib::spt::device::name()'],['../classlib_1_1spt_1_1entity.html#a52586eeb440239769c5383020a1ca50a',1,'lib::spt::entity::name()'],['../classlib_1_1spt_1_1playlist.html#af3c7ea64e6fa3fc9c1d9f6ee6e764b1e',1,'lib::spt::playlist::name()'],['../classlib_1_1spt_1_1playlist__details.html#a5e78dd53f231ed2dd5f91832ce9ece70',1,'lib::spt::playlist_details::name()']]],
+  ['next_119',['next',['../classlib_1_1random.html#abe830fe508c1ec06d0ce691d2dfee12c',1,'lib::random::next()'],['../classlib_1_1spt_1_1api.html#a01fc1b68241b86c107b11c9ebc3eeea4',1,'lib::spt::api::next()']]],
+  ['now_120',['now',['../classlib_1_1date__time.html#a0bfc48932543d18c486119c84458c14a',1,'lib::date_time']]],
+  ['now_5futc_121',['now_utc',['../classlib_1_1date__time.html#a9f27a893ead35709fc01030c193a05cf',1,'lib::date_time']]]
 ];

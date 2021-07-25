@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['warn_339',['warn',['../classlib_1_1log.html#ad6c8f913d62cc4d89bbfa27a3369a89b',1,'lib::log::warn(const Format &amp;fmt, const Arg &amp;arg, Args &amp;&amp;... args)'],['../classlib_1_1log.html#a3b352feba3bddb212d53a40db6e69b75',1,'lib::log::warn(const Format &amp;fmt)']]]
+  ['url_388',['url',['../classlib_1_1spt_1_1auth.html#a3f4dd7f6fa15555e5ea65c11d8f50974',1,'lib::spt::auth::url()'],['../classlib_1_1spt_1_1error.html#a19860ef550fb939be1d47ec93f97142c',1,'lib::spt::error::url()']]]
 ];

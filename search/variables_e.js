@@ -1,10 +1,8 @@
 var searchData=
 [
-  ['path_393',['path',['../structlib_1_1set_1_1spotify.html#a18578f3f4632539f61f7a326b8607903',1,'lib::set::spotify']]],
-  ['playlist_5forder_394',['playlist_order',['../structlib_1_1set_1_1general.html#aec194d65dd812da135f7ffe6cfa263e2',1,'lib::set::general']]],
-  ['playlists_395',['playlists',['../classlib_1_1spt_1_1search__results.html#a1e1b2635d850b087c917cf4d04d054d1',1,'lib::spt::search_results']]],
-  ['popularity_396',['popularity',['../classlib_1_1spt_1_1artist.html#a3edf12f868b693d887b4ba9d4e0f23c7',1,'lib::spt::artist']]],
-  ['product_397',['product',['../classlib_1_1spt_1_1user.html#a3e7bbe3f42657f4eb0a43bd38881deff',1,'lib::spt::user']]],
-  ['progress_5fms_398',['progress_ms',['../classlib_1_1spt_1_1playback.html#a3b8abad8cc302c24f0a07b4b3bca9146',1,'lib::spt::playback']]],
-  ['pulse_5fvolume_399',['pulse_volume',['../structlib_1_1set_1_1general.html#a8cea9267dea0ed7cbe858deda0b56c21',1,'lib::set::general']]]
+  ['timestamp_438',['timestamp',['../classlib_1_1crash__info.html#a662b5ee92e9eb2c07de40bd7c0b987fa',1,'lib::crash_info']]],
+  ['tracks_439',['tracks',['../classlib_1_1spt_1_1playlist.html#af31fb77d7316d524020f52b99eeae675',1,'lib::spt::playlist::tracks()'],['../classlib_1_1spt_1_1search__results.html#ac5dad86a1b2cb4724d08ff6ed817435d',1,'lib::spt::search_results::tracks()']]],
+  ['tracks_5fhref_440',['tracks_href',['../classlib_1_1spt_1_1playlist.html#a6bd3cca9afe5a1584d71d0e4d880cf14',1,'lib::spt::playlist']]],
+  ['tracks_5ftotal_441',['tracks_total',['../classlib_1_1spt_1_1playlist.html#abc4dec5cee51165c5f02460b429e14b9',1,'lib::spt::playlist']]],
+  ['type_442',['type',['../classlib_1_1spt_1_1context.html#a3da85d5a0e71c4a58b6e5e0868accefe',1,'lib::spt::context::type()'],['../classlib_1_1spt_1_1device.html#aeb916c1ee10bf9814dfb294b1a55132d',1,'lib::spt::device::type()']]]
 ];

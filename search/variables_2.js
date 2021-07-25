@@ -1,9 +1,7 @@
 var searchData=
 [
-  ['client_5fid_354',['client_id',['../structlib_1_1set_1_1account.html#a71a7b7b8c7766af3bbe3a18d72ee1b73',1,'lib::set::account']]],
-  ['client_5fsecret_355',['client_secret',['../structlib_1_1set_1_1account.html#a8f71cdb24407039c179b3208f3140b4e',1,'lib::set::account']]],
-  ['collaborative_356',['collaborative',['../classlib_1_1spt_1_1playlist.html#aa0f4ab3aa888669049dc17805a9402e5',1,'lib::spt::playlist']]],
-  ['context_357',['context',['../classlib_1_1spt_1_1playback.html#ab80dbe821d37e348298beeb56cde4c87',1,'lib::spt::playback']]],
-  ['current_5fdevice_358',['current_device',['../classlib_1_1spt_1_1spotify__api.html#ae985c3bdb98cc5b5a55af95845523ab8',1,'lib::spt::spotify_api']]],
-  ['custom_5fplaylist_5forder_359',['custom_playlist_order',['../structlib_1_1set_1_1general.html#ae369f9a24d410c8e1113fa9c3a495f7f',1,'lib::set::general']]]
+  ['description_403',['description',['../classlib_1_1spt_1_1playlist.html#af058c4eb3226f7b4d8cd270acdfa2514',1,'lib::spt::playlist::description()'],['../classlib_1_1spt_1_1playlist__details.html#a920cfc501f831c61e01fb0fa7cfcb812',1,'lib::spt::playlist_details::description()']]],
+  ['device_404',['device',['../classlib_1_1spt_1_1playback.html#a347a1f37e20750a9ffaaf42cf93780bd',1,'lib::spt::playback']]],
+  ['display_5fname_405',['display_name',['../classlib_1_1spt_1_1user.html#a015858a71b0d9e7ea1c5fbf4739cea9e',1,'lib::spt::user']]],
+  ['duration_406',['duration',['../classlib_1_1spt_1_1track.html#a95db80e3f3255ceebda0e1d3a213166b',1,'lib::spt::track']]]
 ];

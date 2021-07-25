@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['fmt_217',['fmt',['../classlib_1_1fmt.html',1,'lib']]]
+  ['entity_229',['entity',['../classlib_1_1spt_1_1entity.html',1,'lib::spt']]],
+  ['error_230',['error',['../classlib_1_1spt_1_1error.html',1,'lib::spt']]]
 ];
